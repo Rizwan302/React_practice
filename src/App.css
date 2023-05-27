@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  text-align: center;
+  color: antiquewhite;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+  width: 400px;
+  height: 400px;
+  background-color: brown;
+  border: 2px solid blue;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+
+.main input{
+  padding: 9px 1px;
+  border-radius: 6px;
+  margin-top: 10px;
+  width: 80%;
+  text-align: center;
+  
+}
+
+.main button{
+  margin-top: 40px;
+  padding: 10px 30px;
+}
